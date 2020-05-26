@@ -1,0 +1,23 @@
+_repo: Louisiana-Prehistory_62189
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Neuman, Nancy W. Hawkins
+    gutenberg_agent_id: '51817'
+    url: http://www.gutenberg.org/2009/agents/51817
+  - agent_name: Neuman, Robert W.
+    gutenberg_agent_id: '51816'
+    url: http://www.gutenberg.org/2009/agents/51816
+description: ''
+gutenberg_issued: '2020-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Louisiana Prehistory
+url: http://www.gutenberg.org/ebooks/62189
